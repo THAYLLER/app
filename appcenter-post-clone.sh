@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 yarn add react-native-camera
+yarn add jetifier
 
 cd android/
 
