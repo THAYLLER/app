@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "894267109510",
+    "project_id": "unilevercicloo-1e0ea",
+    "storage_bucket": "unilevercicloo-1e0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894267109510:android:737b945f6197eb223ae107",
+        "android_client_info": {
+          "package_name": "br.com.devpartner.unilever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894267109510-pgt68csh1ni0pm3d6q7omol0jgronp2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxw5NqnuayvHNOIYvrYegDbRTrqrGFkn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894267109510-pgt68csh1ni0pm3d6q7omol0jgronp2p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894267109510-kdon74jtksvt2anm6c9v8rnslt3p3l5f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.devpartner.unilever"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

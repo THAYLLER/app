@@ -1,0 +1,6 @@
+export const SET_BASE_URL = 'SET_BASE_URL'
+export const SET_USER = 'SET_USER'
+export const SET_SEARCH_TITLE = 'SET_SEARCH_TITLE'
+export const SET_SEARCH_TEXT = 'SET_SEARCH_TEXT'
+export const SET_NOTIFICATIONS = 'SET_NOTIFICATIONS'
+export const SET_SHOW_EXTRACT = 'SET_SHOW_EXTRACT'

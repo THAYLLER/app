@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cicloo</string>
+    <string name="facebook_app_id">286894150089591</string>
+    <string name="facebook_client_token">569942e14e73cbb129287177593ce323</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>
