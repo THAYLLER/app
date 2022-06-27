@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "postinstall": "npx jetify",
-    "android": "react-native run-android",
+    "android": "react-native run-android --no-jetifier",
     "ios": "react-native run-ios",
-    "start": "react-native start",
+    "start": "react-native start --no-jetifier",
     "test": "jest",
     "lint": "eslint .",
     "android-rebuild": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res"
